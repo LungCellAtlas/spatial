@@ -21,10 +21,10 @@ Other approach:
 ### Challenges:
 Not clear yet what medium and low expression is yet (esp. when using scRNA-seq as reference)
 - check out what Xiaowei Zhuang’s group used for “highly expressed”
--> Allen group has similar definition
+  - Allen Brain group has similar definition
 
 Most of the probe selection has been done on brain:
--> in brain need to separate neuronal subtypes which share a lot of genes, different setup/challenge in lung
+- in brain need to separate neuronal subtypes which share a lot of genes, different setup/challenge in lung
 
 Defining markers manually means we face difficulty of cell type vs cell state delineation when we decide what to look for
 
@@ -50,7 +50,7 @@ Sasha: prefer combination of markers that determine a cell type, not just one
 Doug: could start data generation in Feb
 
 Costs 20-30k for initial probeset, then can use this probeset again after establishing protocols for cheaper
--> need good gene set!
+- need good gene set!
 
 
 ### Define scope for computational probeset inference:
